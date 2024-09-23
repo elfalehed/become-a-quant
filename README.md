@@ -108,5 +108,5 @@ Modern Portfolio Theory (MPT): MPT is a theory that argues that an investor can 
 * Time Series Analysis: Time series analysis can be used to model and forecast financial data, such as stock prices or interest rates. In the financial market, time series analysis can be used to make investment decisions or to develop trading strategies.
 * Event Studies: Event studies can be used to measure the impact of a specific event on the price of a security. In the financial market, event studies can be used to measure the impact of an earnings announcement or a merger announcement on a stock’s price.
 * Risk Management: Risk management is the process of identifying, assessing, and controlling risks faced by an individual or an organization. In the financial market, risk management can involve the use of derivatives, such as options and futures, to hedge against market risk.
-* 
-I hope these examples give you a better understanding of how these finance concepts can be applied in the financial market.
+ 
+<i><b>I will be adding on the content's of AMK soon.</b></i>
